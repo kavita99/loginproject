@@ -2,7 +2,7 @@
 <!------ Include the above in your HEAD tag ---------->
 <?php 
 $db=mysqli_connect("localhost","root","","login");
-if($db==TRUE)
+
 
 ?>
 <!DOCTYPE html>
